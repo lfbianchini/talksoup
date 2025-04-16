@@ -2,6 +2,8 @@
 
 A modern web application for real-time conversations and discussions.
 
+![TalkSoup Demo](/vids/talksoup.gif)
+
 ## 🚀 Tech Stack
 
 ### Backend
